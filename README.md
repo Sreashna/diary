@@ -67,17 +67,7 @@ This makes the app:
 4. **Favorites screen** shows all entries with date, title, content, and image.
 5. **MVVM** architecture ensures logic and UI are cleanly separated.
 
----
 
-## 📱 Screenshots
-
-> Include screenshots in your repo under `/screenshots/` folder and reference them like below:
-
-| Add Diary | Voice Input | Memories |
-|-----------|-------------|----------|
-| ![](screenshots/add_entry.png) | ![](screenshots/voice_input.png) | ![](screenshots/memories.png) |
-
----
 
 ## 🚀 Setup Instructions
 
